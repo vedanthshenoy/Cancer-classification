@@ -33,4 +33,8 @@ pip install pandas
 conda install scikit-learn
 ```
 
--Numpy and Pandas come preinstalled in Anaconda package.
+- Numpy and Pandas come preinstalled in Anaconda package.
+
+## Language?Framework Used
+- [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
