@@ -5,4 +5,4 @@ Only the data corresponding to the radius_mean, area_mean, smoothness_mean, comp
 Logistic regression is used because it gives best accuracy among the surveyed algorithms such as SVM,KNN.
 Make sure to checkout the wiki of this project.
 Pull requests are encouraged always.
-Feel free to contact me on vedantshenoy1@gmail.comfor any doubts and queries.
+Feel free to contact me on vedantshenoy1@gmail.com for any doubts and queries.
