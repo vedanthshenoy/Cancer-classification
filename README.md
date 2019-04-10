@@ -18,12 +18,10 @@ Feel free to contact me on vedantshenoy1@gmail.com for any doubts and queries.
 ```
 pip install scikit-learn
 ```
-
 - Installing Numpy for Python
 ```
 pip install numpy
 ```
-
 - Installing Pandas for Python
 ```
 pip install pandas
@@ -32,9 +30,8 @@ pip install pandas
 ```
 conda install scikit-learn
 ```
-
 - Numpy and Pandas come preinstalled in Anaconda package.
 
-## Language?Framework Used
+## Language/Framework Used
 - [Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
